@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet.m3u8?pv=0001
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet/%08Bich%20Phuong.m3u8?pv=0001
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet/Jack.m3u8?pv=0001
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet/Mix%20Viet.m3u8?pv=0001
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet/My%20Tam.m3u8?pv=0001
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet/Son%20Tung%20MT-P.m3u8?pv=0001
+https://raw.githubusercontent.com/tisy-mz/muziz/master/Playlist/Nhac%20Viet/Tien%20Tien.m3u8?pv=0001
